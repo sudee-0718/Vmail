@@ -1,0 +1,14 @@
+.primary{
+    background-color: blue;
+}
+
+.list{
+    margin-top: 0%;
+    padding-top: 0%;
+    text-align: center;
+    background-color: steelblue;
+}
+
+.li{
+    text-decoration: none;
+}
